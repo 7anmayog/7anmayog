@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Tanmay Sahu<br>not active so much just to save my work</p>
+<p align="center">My name is Tanmay Sahu<br>not active so much just to save my work</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">I am a Gamer<br>I have Skills in Python, C, C++<br>   MySQL</p>
+<p align="center">I am a Gamer<br>I have Skills in Python, C, C++<br>   MySQL</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
