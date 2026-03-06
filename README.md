@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Tanmay Sahu<br>not active so much just to save my work</p>
+<p align="center">My name is Tanmay Sahu<br>not active so much, i try to contribute what i'm learning now and will upload small to large projects in future</p>
 
 ###
 
